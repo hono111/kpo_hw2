@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zj73sKCXpXk=",
+  "success": true,
+  "projectFilePath": "C:\\programs_csh\\PosApp\\PosApp\\PosApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nep\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\nep\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\nep\\.nuget\\packages\\riok.mapperly\\4.3.1\\riok.mapperly.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
